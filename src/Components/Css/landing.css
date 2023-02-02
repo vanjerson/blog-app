@@ -1,0 +1,25 @@
+.carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 100%;
+    color: antiquewhite;
+}
+
+.carousel-item img {
+    height: 500px;
+    width: 200px;
+}
+
+.navbar {
+    background: wheat;
+}
+
+div .main-body {
+    background-image: url(https://www.elegantthemes.com/blog/wp-content/uploads/2013/09/bg-11-full.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
